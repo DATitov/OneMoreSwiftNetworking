@@ -1,0 +1,11 @@
+LanguageBuilder.xcodeproj/xcuserdata/dmitriytitov.xcuserdatad/xcschemes/xcschememanagement.plist
+LanguageBuilder.xcodeproj/xcuserdata/dmitriytitov.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+LanguageBuilder.xcodeproj/project.xcworkspace/xcuserdata/**/*
+*/**/xcuserdata/**/*
+*/**/xcuserdata/**/*
+*/**/.build/**/*
+*/**/xcuserdata/**/*
+.build/**/*
+.DS_Store
+*.resolved
+.swiftpm/*
